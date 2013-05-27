@@ -1,0 +1,16 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\PlayerSampleMission1CSharp.dll
+bin\Debug\PlayerSampleMission1CSharp.pdb
+obj\Debug\PlayerSampleMission1CSharp.dll
+obj\Debug\PlayerSampleMission1CSharp.pdb
+..\..\src10\players\PlayerSampleMission1CSharp.dll
+..\..\src10\players\PlayerSampleMission1CSharp.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\PlayerSampleMission1CSharp.dll
+obj\Release\PlayerSampleMission1CSharp.pdb
+..\..\src051017\players\PlayerSampleMission1CSharp.dll
+..\..\src051017\players\PlayerSampleMission1CSharp.pdb
+..\..\server19-10\players\PlayerSampleMission1CSharp.dll
+..\..\server19-10\players\PlayerSampleMission1CSharp.pdb
+..\..\..\players\PlayerSampleMission1CSharp.dll
+..\..\..\players\PlayerSampleMission1CSharp.pdb

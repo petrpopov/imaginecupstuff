@@ -1,0 +1,9 @@
+obj\Release\ResolveAssemblyReference.cache
+C:\Program Files\Microsoft\Image Cup 2006\players\MIPT.dll
+C:\Program Files\Microsoft\Image Cup 2006\players\MIPT.pdb
+obj\Release\MIPT.Resource.resources
+obj\Release\TestLogik.csproj.GenerateResource.Cache
+..\..\..\players\MIPT.dll
+..\..\..\players\MIPT.pdb
+obj\Release\MIPT.dll
+obj\Release\MIPT.pdb
